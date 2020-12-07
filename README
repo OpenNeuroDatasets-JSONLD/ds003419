@@ -1,4 +1,6 @@
-A free form text ( README ) describing the dataset in more details that SHOULD be provided
+A sample of 68 participants was recruited for this study. Out of this sample, 48 participants completed all required MRI scans and psychometric assessments and participated in the running intervention. We primarily recruited rather unathletic people showing no or only low regular engagement in sports activities. Participants indicated to exercise about half an hour per week (M = 0.53; SD = 1.2). 
+Participants were randomly assigned to two intervention groups, which received the running intervention time-delayed. The first group ("intervention group") performed the running intervention between the first (t1) and the second test session (t2), while the second group ("wait group") received the training between t2 and the third test session (t3).
+
 
 The raw BIDS data was created using BIDScoin 3.0.8
 All provenance information and settings can be found in ./code/bidscoin
